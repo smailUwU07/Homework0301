@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">home work 0301</string>
+    <string name="email">Email</string>
+    <string name="required">Required</string>
+    <string name="password">Password</string>
+    <string name="theme">Theme</string>
+    <string name="send">Send</string>
+    <string name="message">Message</string>
+</resources>
